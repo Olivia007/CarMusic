@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage
+END
+MKAnnotationView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/MKAnnotationView+WebCache.h
+END
+SDImageCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDImageCache.h
+END
+SDWebImageDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImageDecoder.h
+END
+MKAnnotationView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/MKAnnotationView+WebCache.m
+END
+SDWebImageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImageManager.h
+END
+SDImageCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDImageCache.m
+END
+SDWebImageDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImageDecoder.m
+END
+SDWebImageManager+MJ.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImageManager+MJ.h
+END
+UIButton+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIButton+WebCache.h
+END
+SDWebImageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImageManager.m
+END
+SDWebImageDownloaderOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImageDownloaderOperation.h
+END
+UIImageView+WebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIImageView+WebCache.h
+END
+UIImage+WebP.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIImage+WebP.h
+END
+SDWebImageManager+MJ.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImageManager+MJ.m
+END
+UIButton+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIButton+WebCache.m
+END
+SDWebImageDownloaderOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImageDownloaderOperation.m
+END
+UIImageView+WebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIImageView+WebCache.m
+END
+UIImage+WebP.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIImage+WebP.m
+END
+NSData+ImageContentType.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/NSData+ImageContentType.h
+END
+SDWebImageDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImageDownloader.h
+END
+UIView+WebCacheOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIView+WebCacheOperation.h
+END
+NSData+ImageContentType.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/NSData+ImageContentType.m
+END
+SDWebImageDownloader.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImageDownloader.m
+END
+UIView+WebCacheOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIView+WebCacheOperation.m
+END
+UIImageView+HighlightedWebCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIImageView+HighlightedWebCache.h
+END
+SDWebImageCompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImageCompat.h
+END
+UIImageView+HighlightedWebCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIImageView+HighlightedWebCache.m
+END
+UIImage+MultiFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIImage+MultiFormat.h
+END
+SDWebImagePrefetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImagePrefetcher.h
+END
+SDWebImageCompat.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImageCompat.m
+END
+UIImage+GIF.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIImage+GIF.h
+END
+UIImage+MultiFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIImage+MultiFormat.m
+END
+SDWebImagePrefetcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImagePrefetcher.m
+END
+UIImage+GIF.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/UIImage+GIF.m
+END
+SDWebImageOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/SDWebImage/SDWebImageOperation.h
+END

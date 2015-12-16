@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel
+END
+ZCDuangLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCDuangLabel.h
+END
+ZCShapeshiftLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCShapeshiftLabel.h
+END
+ZCCoreTextLayout.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCCoreTextLayout.m
+END
+ZCDuangLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCDuangLabel.m
+END
+ZCShapeshiftLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCShapeshiftLabel.m
+END
+ZCEasingUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCEasingUtil.h
+END
+ZCEasingUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCEasingUtil.m
+END
+ZCSpinLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCSpinLabel.h
+END
+ZCTransparencyLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCTransparencyLabel.h
+END
+ZCFallLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCFallLabel.h
+END
+ZCRevealLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCRevealLabel.h
+END
+ZCSpinLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCSpinLabel.m
+END
+ZCTransparencyLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCTransparencyLabel.m
+END
+ZCFocusLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCFocusLabel.h
+END
+ZCDashLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCDashLabel.h
+END
+ZCFlyinLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCFlyinLabel.h
+END
+ZCThrownLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCThrownLabel.h
+END
+ZCAnimatedLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCAnimatedLabel.h
+END
+ZCFallLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCFallLabel.m
+END
+ZCRevealLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCRevealLabel.m
+END
+ZCFocusLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCFocusLabel.m
+END
+ZCDashLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCDashLabel.m
+END
+ZCFlyinLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCFlyinLabel.m
+END
+ZCThrownLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCThrownLabel.m
+END
+ZCAnimatedLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCAnimatedLabel.m
+END
+ZCCoreTextLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/imusic_panxiaofen/!svn/ver/138/trunk/code/appclient/ios/panxiaofen/Venders/ZCAnimatedLabel/ZCCoreTextLayout.h
+END
