@@ -1,0 +1,521 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FD2D52801C214A4E00DCD914 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FD2D527F1C214A4E00DCD914 /* main.m */; };
+		FD2D52831C214A4E00DCD914 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FD2D52821C214A4E00DCD914 /* AppDelegate.m */; };
+		FD2D52861C214A4E00DCD914 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD2D52851C214A4E00DCD914 /* ViewController.m */; };
+		FD2D52891C214A4E00DCD914 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD2D52871C214A4E00DCD914 /* Main.storyboard */; };
+		FD2D528B1C214A4E00DCD914 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD2D528A1C214A4E00DCD914 /* Assets.xcassets */; };
+		FD2D528E1C214A4E00DCD914 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD2D528C1C214A4E00DCD914 /* LaunchScreen.storyboard */; };
+		FD2D52991C214A4E00DCD914 /* CarMusicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FD2D52981C214A4E00DCD914 /* CarMusicTests.m */; };
+		FD2D52A41C214A4E00DCD914 /* CarMusicUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FD2D52A31C214A4E00DCD914 /* CarMusicUITests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FD2D52951C214A4E00DCD914 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FD2D52731C214A4E00DCD914 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FD2D527A1C214A4E00DCD914;
+			remoteInfo = CarMusic;
+		};
+		FD2D52A01C214A4E00DCD914 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FD2D52731C214A4E00DCD914 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FD2D527A1C214A4E00DCD914;
+			remoteInfo = CarMusic;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FD2D527B1C214A4E00DCD914 /* CarMusic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarMusic.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD2D527F1C214A4E00DCD914 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FD2D52811C214A4E00DCD914 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FD2D52821C214A4E00DCD914 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FD2D52841C214A4E00DCD914 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		FD2D52851C214A4E00DCD914 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		FD2D52881C214A4E00DCD914 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FD2D528A1C214A4E00DCD914 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FD2D528D1C214A4E00DCD914 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FD2D528F1C214A4E00DCD914 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD2D52941C214A4E00DCD914 /* CarMusicTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarMusicTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD2D52981C214A4E00DCD914 /* CarMusicTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CarMusicTests.m; sourceTree = "<group>"; };
+		FD2D529A1C214A4E00DCD914 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD2D529F1C214A4E00DCD914 /* CarMusicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarMusicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD2D52A31C214A4E00DCD914 /* CarMusicUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CarMusicUITests.m; sourceTree = "<group>"; };
+		FD2D52A51C214A4E00DCD914 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FD2D52781C214A4E00DCD914 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FD2D52911C214A4E00DCD914 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FD2D529C1C214A4E00DCD914 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FD2D52721C214A4E00DCD914 = {
+			isa = PBXGroup;
+			children = (
+				FD2D527D1C214A4E00DCD914 /* CarMusic */,
+				FD2D52971C214A4E00DCD914 /* CarMusicTests */,
+				FD2D52A21C214A4E00DCD914 /* CarMusicUITests */,
+				FD2D527C1C214A4E00DCD914 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FD2D527C1C214A4E00DCD914 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FD2D527B1C214A4E00DCD914 /* CarMusic.app */,
+				FD2D52941C214A4E00DCD914 /* CarMusicTests.xctest */,
+				FD2D529F1C214A4E00DCD914 /* CarMusicUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FD2D527D1C214A4E00DCD914 /* CarMusic */ = {
+			isa = PBXGroup;
+			children = (
+				FD2D52811C214A4E00DCD914 /* AppDelegate.h */,
+				FD2D52821C214A4E00DCD914 /* AppDelegate.m */,
+				FD2D52841C214A4E00DCD914 /* ViewController.h */,
+				FD2D52851C214A4E00DCD914 /* ViewController.m */,
+				FD2D52871C214A4E00DCD914 /* Main.storyboard */,
+				FD2D528A1C214A4E00DCD914 /* Assets.xcassets */,
+				FD2D528C1C214A4E00DCD914 /* LaunchScreen.storyboard */,
+				FD2D528F1C214A4E00DCD914 /* Info.plist */,
+				FD2D527E1C214A4E00DCD914 /* Supporting Files */,
+			);
+			path = CarMusic;
+			sourceTree = "<group>";
+		};
+		FD2D527E1C214A4E00DCD914 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FD2D527F1C214A4E00DCD914 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FD2D52971C214A4E00DCD914 /* CarMusicTests */ = {
+			isa = PBXGroup;
+			children = (
+				FD2D52981C214A4E00DCD914 /* CarMusicTests.m */,
+				FD2D529A1C214A4E00DCD914 /* Info.plist */,
+			);
+			path = CarMusicTests;
+			sourceTree = "<group>";
+		};
+		FD2D52A21C214A4E00DCD914 /* CarMusicUITests */ = {
+			isa = PBXGroup;
+			children = (
+				FD2D52A31C214A4E00DCD914 /* CarMusicUITests.m */,
+				FD2D52A51C214A4E00DCD914 /* Info.plist */,
+			);
+			path = CarMusicUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FD2D527A1C214A4E00DCD914 /* CarMusic */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FD2D52A81C214A4E00DCD914 /* Build configuration list for PBXNativeTarget "CarMusic" */;
+			buildPhases = (
+				FD2D52771C214A4E00DCD914 /* Sources */,
+				FD2D52781C214A4E00DCD914 /* Frameworks */,
+				FD2D52791C214A4E00DCD914 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CarMusic;
+			productName = CarMusic;
+			productReference = FD2D527B1C214A4E00DCD914 /* CarMusic.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FD2D52931C214A4E00DCD914 /* CarMusicTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FD2D52AB1C214A4E00DCD914 /* Build configuration list for PBXNativeTarget "CarMusicTests" */;
+			buildPhases = (
+				FD2D52901C214A4E00DCD914 /* Sources */,
+				FD2D52911C214A4E00DCD914 /* Frameworks */,
+				FD2D52921C214A4E00DCD914 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FD2D52961C214A4E00DCD914 /* PBXTargetDependency */,
+			);
+			name = CarMusicTests;
+			productName = CarMusicTests;
+			productReference = FD2D52941C214A4E00DCD914 /* CarMusicTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FD2D529E1C214A4E00DCD914 /* CarMusicUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FD2D52AE1C214A4E00DCD914 /* Build configuration list for PBXNativeTarget "CarMusicUITests" */;
+			buildPhases = (
+				FD2D529B1C214A4E00DCD914 /* Sources */,
+				FD2D529C1C214A4E00DCD914 /* Frameworks */,
+				FD2D529D1C214A4E00DCD914 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FD2D52A11C214A4E00DCD914 /* PBXTargetDependency */,
+			);
+			name = CarMusicUITests;
+			productName = CarMusicUITests;
+			productReference = FD2D529F1C214A4E00DCD914 /* CarMusicUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FD2D52731C214A4E00DCD914 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = wacosoft;
+				TargetAttributes = {
+					FD2D527A1C214A4E00DCD914 = {
+						CreatedOnToolsVersion = 7.1;
+					};
+					FD2D52931C214A4E00DCD914 = {
+						CreatedOnToolsVersion = 7.1;
+						TestTargetID = FD2D527A1C214A4E00DCD914;
+					};
+					FD2D529E1C214A4E00DCD914 = {
+						CreatedOnToolsVersion = 7.1;
+						TestTargetID = FD2D527A1C214A4E00DCD914;
+					};
+				};
+			};
+			buildConfigurationList = FD2D52761C214A4E00DCD914 /* Build configuration list for PBXProject "CarMusic" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FD2D52721C214A4E00DCD914;
+			productRefGroup = FD2D527C1C214A4E00DCD914 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FD2D527A1C214A4E00DCD914 /* CarMusic */,
+				FD2D52931C214A4E00DCD914 /* CarMusicTests */,
+				FD2D529E1C214A4E00DCD914 /* CarMusicUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FD2D52791C214A4E00DCD914 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD2D528E1C214A4E00DCD914 /* LaunchScreen.storyboard in Resources */,
+				FD2D528B1C214A4E00DCD914 /* Assets.xcassets in Resources */,
+				FD2D52891C214A4E00DCD914 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FD2D52921C214A4E00DCD914 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FD2D529D1C214A4E00DCD914 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FD2D52771C214A4E00DCD914 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD2D52861C214A4E00DCD914 /* ViewController.m in Sources */,
+				FD2D52831C214A4E00DCD914 /* AppDelegate.m in Sources */,
+				FD2D52801C214A4E00DCD914 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FD2D52901C214A4E00DCD914 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD2D52991C214A4E00DCD914 /* CarMusicTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FD2D529B1C214A4E00DCD914 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD2D52A41C214A4E00DCD914 /* CarMusicUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FD2D52961C214A4E00DCD914 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FD2D527A1C214A4E00DCD914 /* CarMusic */;
+			targetProxy = FD2D52951C214A4E00DCD914 /* PBXContainerItemProxy */;
+		};
+		FD2D52A11C214A4E00DCD914 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FD2D527A1C214A4E00DCD914 /* CarMusic */;
+			targetProxy = FD2D52A01C214A4E00DCD914 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		FD2D52871C214A4E00DCD914 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FD2D52881C214A4E00DCD914 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FD2D528C1C214A4E00DCD914 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FD2D528D1C214A4E00DCD914 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FD2D52A61C214A4E00DCD914 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FD2D52A71C214A4E00DCD914 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FD2D52A91C214A4E00DCD914 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = CarMusic/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.wacosoft.CarMusic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		FD2D52AA1C214A4E00DCD914 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = CarMusic/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.wacosoft.CarMusic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		FD2D52AC1C214A4E00DCD914 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = CarMusicTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.wacosoft.CarMusicTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CarMusic.app/CarMusic";
+			};
+			name = Debug;
+		};
+		FD2D52AD1C214A4E00DCD914 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = CarMusicTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.wacosoft.CarMusicTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CarMusic.app/CarMusic";
+			};
+			name = Release;
+		};
+		FD2D52AF1C214A4E00DCD914 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = CarMusicUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.wacosoft.CarMusicUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = CarMusic;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		FD2D52B01C214A4E00DCD914 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = CarMusicUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.wacosoft.CarMusicUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = CarMusic;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FD2D52761C214A4E00DCD914 /* Build configuration list for PBXProject "CarMusic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FD2D52A61C214A4E00DCD914 /* Debug */,
+				FD2D52A71C214A4E00DCD914 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FD2D52A81C214A4E00DCD914 /* Build configuration list for PBXNativeTarget "CarMusic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FD2D52A91C214A4E00DCD914 /* Debug */,
+				FD2D52AA1C214A4E00DCD914 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		FD2D52AB1C214A4E00DCD914 /* Build configuration list for PBXNativeTarget "CarMusicTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FD2D52AC1C214A4E00DCD914 /* Debug */,
+				FD2D52AD1C214A4E00DCD914 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		FD2D52AE1C214A4E00DCD914 /* Build configuration list for PBXNativeTarget "CarMusicUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FD2D52AF1C214A4E00DCD914 /* Debug */,
+				FD2D52B01C214A4E00DCD914 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FD2D52731C214A4E00DCD914 /* Project object */;
+}
