@@ -12,6 +12,7 @@
 		FD2D528B1C214A4E00DCD914 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD2D528A1C214A4E00DCD914 /* Assets.xcassets */; };
 		FD2D52991C214A4E00DCD914 /* CarMusicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FD2D52981C214A4E00DCD914 /* CarMusicTests.m */; };
 		FD2D52A41C214A4E00DCD914 /* CarMusicUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FD2D52A31C214A4E00DCD914 /* CarMusicUITests.m */; };
+		FD2D52B51C215EA000DCD914 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD2D52B41C215EA000DCD914 /* BaseViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,8 @@
 		FD2D529F1C214A4E00DCD914 /* CarMusicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarMusicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD2D52A31C214A4E00DCD914 /* CarMusicUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CarMusicUITests.m; sourceTree = "<group>"; };
 		FD2D52A51C214A4E00DCD914 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD2D52B31C215EA000DCD914 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
+		FD2D52B41C215EA000DCD914 /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +98,7 @@
 		FD2D527D1C214A4E00DCD914 /* CarMusic */ = {
 			isa = PBXGroup;
 			children = (
+				FD2D52B21C215EA000DCD914 /* Controllers */,
 				FD2D52811C214A4E00DCD914 /* AppDelegate.h */,
 				FD2D52821C214A4E00DCD914 /* AppDelegate.m */,
 				FD2D528A1C214A4E00DCD914 /* Assets.xcassets */,
@@ -136,6 +140,15 @@
 			children = (
 			);
 			path = ThirdLib;
+			sourceTree = "<group>";
+		};
+		FD2D52B21C215EA000DCD914 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				FD2D52B31C215EA000DCD914 /* BaseViewController.h */,
+				FD2D52B41C215EA000DCD914 /* BaseViewController.m */,
+			);
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -267,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD2D52831C214A4E00DCD914 /* AppDelegate.m in Sources */,
+				FD2D52B51C215EA000DCD914 /* BaseViewController.m in Sources */,
 				FD2D52801C214A4E00DCD914 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
